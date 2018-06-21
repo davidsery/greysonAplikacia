@@ -1,0 +1,9 @@
+Wrong username;Sorry your username must contain only English alphabet letters. Please try again.
+Too low;Number you are looking for is higher. Try again!
+Too high;Number you are looking for is lower. Try again!
+Correct;You have the right number.
+Not number1;Your guess is invalid 
+Not number2;is not a number.
+Score;Congratulations! Number of tries needed:
+Guess;Guess the number between 1 and 1000:
+Username;Please choose your username:
